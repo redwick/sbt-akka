@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-sbt.iml" filepath="$PROJECT_DIR$/.idea/modules/test-sbt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-sbt-build.iml" filepath="$PROJECT_DIR$/.idea/modules/test-sbt-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Auth-Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Auth-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Auth-Project-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Auth-Project-build.iml" />
     </modules>
   </component>
 </project>
